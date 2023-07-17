@@ -1,1 +1,0 @@
-ngrok.exe config add-authtoken 2O3EGLOeVQvQNJ66ZOju4nSaprX_85UmShQ5vDHB2PsrvamVj & ngrok tcp 3389 --log nglogfile.txt
