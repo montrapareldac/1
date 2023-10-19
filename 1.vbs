@@ -1,0 +1,1 @@
+CreateObject("Shell.Application").ShellExecute "us.bat", "", "", "runas", 0
